@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=omchand27" alt="omchand27" /></a> </p>
 
-<img src="[https://media.tenor.com/Ug6cbVA1ZsMAAAAM/developer.gif](https://d34zoluwvem4yl.cloudfront.net/Professional_full_stack_web_development_service_in_Bangladesh-_Full_stack_web_developer.gif)" align="right" width="400"/>
+<img src="https://d34zoluwvem4yl.cloudfront.net/Professional_full_stack_web_development_service_in_Bangladesh-_Full_stack_web_developer.gif" align="right" width="400"/>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
