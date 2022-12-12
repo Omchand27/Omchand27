@@ -1,4 +1,4 @@
-<img width="900" align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTY0JeyLTcn-kwLcHWl0gf3XzfFnot6eshV2ms8RVkEmzZst74I4X24PO8KCT7inFz46W0&usqp=CAU" alt="mern.jpg"/>
+![wallpaperjs](https://user-images.githubusercontent.com/110046267/204457516-9798de33-8fe4-417f-8a56-a719a539e3df.jpeg)
 
 <h1 align="center">Hi 👋, I'm Omchand Kanu</h1>
 <h3 align="center">Full Stack Web Developer, Enthusiast to Learn New FrameWorks</h3>
