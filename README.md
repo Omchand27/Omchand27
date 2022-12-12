@@ -1,4 +1,4 @@
-<img width="1200" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTY0JeyLTcn-kwLcHWl0gf3XzfFnot6eshV2ms8RVkEmzZst74I4X24PO8KCT7inFz46W0&usqp=CAU" alt="mern.jpg"/>
+<img width="900" margin="auto" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTY0JeyLTcn-kwLcHWl0gf3XzfFnot6eshV2ms8RVkEmzZst74I4X24PO8KCT7inFz46W0&usqp=CAU" alt="mern.jpg"/>
 
 <h1 align="center">Hi 👋, I'm Omchand Kanu</h1>
 <h3 align="center">Full Stack Web Developer, Enthusiast to Learn New FrameWorks</h3>
