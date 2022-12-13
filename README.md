@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently learning **Mern Stack Development**
 
-- 👨‍💻 All of my projects are available at Omchand27.github.io
+- 👨‍💻 All of my projects are available at https://omchand27.github.io
 
 - 💬 Ask me about **React, Javascript**
 
