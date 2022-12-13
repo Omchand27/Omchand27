@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Omchand Kanu</h1>
 <h3 align="center">Full Stack Web Developer, Enthusiast to Learn New FrameWorks</h3>
 
-<img src="https://d34zoluwvem4yl.cloudfront.net/Professional_full_stack_web_development_service_in_Bangladesh-_Full_stack_web_developer.gif" align="right" width="400"/>
+<img src="https://d34zoluwvem4yl.cloudfront.net/Professional_full_stack_web_development_service_in_Bangladesh-_Full_stack_web_developer.gif" align="middle" width="400"/>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=omchand27" alt="omchand27" /></a> </p>
 
