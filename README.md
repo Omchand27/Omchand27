@@ -1,6 +1,6 @@
 <!-- ![wallpaperjs](https://user-images.githubusercontent.com/110046267/204457516-9798de33-8fe4-417f-8a56-a719a539e3df.jpeg) -->
 
-<h1 align="center">Hi 👋, I'm Omchand Kanu</h1>
+<h1 align="center">Hi 👋,  I'm Omchand Kanu</h1>
 <h3 align="center">Full Stack Web Developer, Enthusiast to Learn New FrameWorks</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=omchand27" alt="omchand27"/></a> </p>
