@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **React, Javascript**
 
-- 📫 How to reach me *omchandkanu27@gmail.com*
+- 📫 How to reach me **omchandkanu27@gmail.com**
 
 - 📄 Know about my experiences [Fresher](Fresher)
 
@@ -30,4 +30,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=omchand27&show_icons=true&locale=en" alt="omchand27" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=omchand27&" alt="omchand27" /></p> 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Omchand27&" alt="Omchand27" /></p> 
