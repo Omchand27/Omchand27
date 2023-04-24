@@ -19,7 +19,7 @@
 
 <h3 align="left">Connect with me:</h3> 
 <p align="left">
-<a href="https://omchand27.github.io">Portfolio<a/>
+<a href="https://omchand27.github.io" target="_blank">Portfolio<a/>
 <a href="https://www.linkedin.com/in/omchand-kanu-542a3423a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/omchand-kanu-542a3423a/" height="30" width="40" /></a>
 </p>
 
@@ -28,6 +28,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=omchand27&show_icons=true&locale=en&layout=compact" alt="omchand27" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=omchand27&show_icons=true&locale=en" alt="omchand27" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Omchand27&show_icons=true&locale=en" alt="omchand27" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Omchand27&" alt="Omchand27" /></p> 
