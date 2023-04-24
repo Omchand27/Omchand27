@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently learning **Mern Stack Development**
 
-- 👨‍💻 All of my projects are available at https://omchand27.github.io
+- 👨‍💻 All of my projects are available at https://omchand27.github.io/
 
 - 💬 Ask me about **React, Javascript**
 
@@ -19,7 +19,7 @@
 
 <h3 align="left">Connect with me:</h3> 
 <p align="left">
-<a href="https://omchand27.github.io" target="_blank">Portfolio<a/>
+<a href="https://omchand27.github.io/" target="_blank">Portfolio<a/>
 <a href="https://www.linkedin.com/in/omchand-kanu-542a3423a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/omchand-kanu-542a3423a/" height="30" width="40" /></a>
 </p>
 
