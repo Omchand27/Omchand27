@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **omchandkanu27@gmail.com**
 
-- 📄 Know about my experiences [Fresher](Fresher)
+- 📄 Know about my experiences Fresher
 
 <h3 align="left">Connect with me:</h3> 
 <p align="left">
